@@ -1,0 +1,23 @@
+{
+  "name": "demosmartcontract",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "truffle": "truffle",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Javed Ahmadzai",
+  "license": "MIT",
+  "devDependencies": {
+    "bootstrap": "^4.5.3",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "lite-server": "^2.5.4",
+    "nodemon": "^2.0.5",
+    "truffle": "^5.1.48",
+    "truffle-contract": "^4.0.31"
+  }
+}
